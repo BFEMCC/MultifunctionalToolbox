@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SVG/cpp.svg</file>
+        <file>SVG/python.svg</file>
+    </qresource>
+</RCC>
